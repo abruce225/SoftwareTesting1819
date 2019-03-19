@@ -1,2 +1,3 @@
 # SoftwareTesting1819
-File for Software Testing 2018/2019 Coursework.
+File's for Software Testing 2018/2019 Coursework.
+Colab between Ed Walpole and Alex Bruce.
